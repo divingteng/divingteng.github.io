@@ -206,10 +206,12 @@ pre > code {
 .site-nav .page-link {
     color: #111;
     line-height: 1.5;
+    font-size: 12px;
 }
 
 .site-nav .page-link:not(:first-child) {
-    margin-left: 20px;
+    margin-left: 48px;
+
 }
 
 @media screen and (max-width: 600px) {
@@ -351,13 +353,17 @@ pre > code {
 
 .post-meta {
     font-size: 12px;
-    color: #828282;
+    color: #5f5f5f;
     text-align: left;
+    font-weight: lighter;
+
 }
 
 .post-link {
     display: block;
     font-size: 24px;
+    font-weight: 600;
+    color: #454545;
 }
 
 /**
