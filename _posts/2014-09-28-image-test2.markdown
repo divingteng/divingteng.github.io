@@ -1,0 +1,12 @@
+---
+layout: image
+title:  image
+date:   2014-10-15 10:34:28
+categories: image
+pre: | 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Sed feugiat consectetur pellentesque. Nam ac elit risus, 
+    ac blandit dui. Duis rutrum porta tortor ut convallis.
+    Duis rutrum porta tortor ut convallis.
+src: /images/xiangshan1.jpg
+---

@@ -2,9 +2,8 @@
 layout: post
 title:  "关于移动应用内搜索的思考与学习"
 date:   2014-10-15 10:34:23
-categories: jekyll update
+categories: article
 pre: 最近通过豌豆荚这个应用关注了一下移动搜索的现状，以下梳理了一些相关内容。
-
 ---
 
 ## 现状

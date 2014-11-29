@@ -17,7 +17,7 @@ dl, dd, ol, ul, figure {
  */
  
 body {
-    font-family: Heiti SC, Helvatica, sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 25px;
     font-weight: 300;
@@ -88,7 +88,6 @@ a:visited {
 
 a:hover {
     color: #ef7979;
-    //text-decoration: underline;
 }
 
 /**
@@ -187,8 +186,8 @@ pre > code {
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: right;
 }
+
 
 .site-title, .site-title:visited {
     color: #424242;
@@ -196,7 +195,7 @@ pre > code {
 
 .site-nav {
     text-align: center;
-    line-height: 64px;
+    line-height: 118px;
 }
 
 .site-nav .menu-icon {
@@ -204,9 +203,11 @@ pre > code {
 }
 
 .site-nav .page-link {
-    color: #111;
+    color: #555;
     line-height: 1.5;
     font-size: 12px;
+    font-weight: 400;
+  
 }
 
 .site-nav .page-link:not(:first-child) {
@@ -338,7 +339,7 @@ pre > code {
  */
 .page-content {
     padding: 30px 0;
-    text-align: center;
+    
 }
 
 .page-heading {
@@ -346,31 +347,36 @@ pre > code {
 }
 
 .post-list {
+    margin-top: 24px;
     margin-left: 0;
     list-style: none;
     text-align: center;
 }
 
 .post-list > li {
+
     margin-bottom: 70px;
 }
 
 .post-meta {
-    font-size: 12px;
-    color: #5f5f5f;
+    font-size: 14px;
+    color: #a6a6a6;
     text-align: center;
-    font-weight: lighter;
+    font-weight: 300;
+    padding-bottom: 20px;
 
 }
 .post-pre{
-    font-size: 12px;
+    font-size: 13px;
+    text-align: center;
 }
 
 .post-link {
+    margin-top: 14px;
     display: block;
-    font-size: 24px;
-    font-weight: 600;
-    color: #454545;
+    font-size: 22px;
+    font-weight: 400;
+    color: #444;
 }
 
 /**
@@ -378,6 +384,7 @@ pre > code {
  */
 .post-header {
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .post-title {
@@ -394,6 +401,8 @@ pre > code {
 
 .post-content {
     margin-bottom: 30px;
+    font-size: 12px;
+
 }
 
 .post-content h2 {

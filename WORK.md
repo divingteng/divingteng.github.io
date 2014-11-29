@@ -1,11 +1,24 @@
 ---
-layout: page
+layout: waterfall
 title: WORK
 permalink: /work/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<div id="wrapper">
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+  <!--<h1 class="page-heading">THOUGHT</h1> -->
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+  <div id="columns">
+    {% for post in site.categories.image %}
+      <div class="pin">
+  			<a href="{{ post.url }}"><img src="{{ post.src }}" /></a>
+			<p>
+				{{ post.pre }}
+			</p>
+      </div>
+    {% endfor %}
+  </div>
+
+ <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>  -->
+
+</div>

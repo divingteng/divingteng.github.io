@@ -2,9 +2,8 @@
 layout: post
 title:  "不读书"
 date:   2014-09-28 20:32:5
-categories: jekyll update
+categories: article
 pre: 今天继续更新。
-
 ---
 
 今天继续更新。
