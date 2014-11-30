@@ -17,7 +17,7 @@ dl, dd, ol, ul, figure {
  */
  
 body {
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 25px;
     font-weight: 300;
@@ -215,15 +215,19 @@ pre > code {
 
 }
 
-@media screen and (max-width: 600px) {
+.site-nav .page-link.current {
+    color: #ef7979;
+}
+
+@media screen and (max-width: 640px) {
     .site-nav {
-        position: absolute;
+        position: relative;
+        display: block;
         top: 9px;
-        right: 30px;
+        margin: 0 auto;
         background-color: #fdfdfd;
-        /*border: 1px solid #e8e8e8;*/
         border-radius: 5px;
-        text-align: right;
+        text-align: center;
     }
 
     .site-nav .menu-icon {
@@ -268,6 +272,10 @@ pre > code {
     color: #ef7979;
 }
 
+/*.page-link:visited {
+    color: #111;
+}
+*/
 /**
  * Site footer
  */
@@ -327,7 +335,7 @@ pre > code {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (30px / 2));
@@ -359,7 +367,7 @@ pre > code {
 }
 
 .post-meta {
-    font-size: 14px;
+    font-size: 12px;
     color: #a6a6a6;
     text-align: center;
     font-weight: 300;
@@ -388,7 +396,7 @@ pre > code {
 }
 
 .post-title {
-    font-size: 36px;
+    font-size: 22px;
     letter-spacing: -1px;
     line-height: 1;
 }
@@ -401,7 +409,7 @@ pre > code {
 
 .post-content {
     margin-bottom: 30px;
-    font-size: 12px;
+    font-size: 14px;
 
 }
 

@@ -1,6 +1,7 @@
 ---
-layout: waterfall
-title: WORK
+layout: work
+title: Work-Tengyue
+categories: work
 permalink: /work/
 ---
 
@@ -9,7 +10,7 @@ permalink: /work/
   <!--<h1 class="page-heading">THOUGHT</h1> -->
 
   <div id="columns">
-    {% for post in site.categories.image %}
+    {% for post in site.categories.work %}
       <div class="pin">
   			<a href="{{ post.url }}"><img src="{{ post.src }}" /></a>
 			<p>

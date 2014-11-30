@@ -1,9 +1,9 @@
 ---
 layout: image
-title:  image
+title:  音乐播放器设计
 date:   2014-10-15 10:34:30
-categories: image
+categories: work
 pre: | 
-    Lorem ipsum dolor sit amet.
+       music player
 src: /images/mymusic.png
 ---

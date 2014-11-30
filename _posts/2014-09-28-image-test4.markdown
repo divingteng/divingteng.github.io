@@ -1,12 +1,9 @@
 ---
 layout: image
-title:  image
+title:  摄影 一些植物
 date:   2014-10-15 10:34:23
-categories: image
+categories: work
 pre: | 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-    ac blandit dui. Duis rutrum porta tortor ut convallis.
-    Duis rutrum porta tortor ut convallis.
-src: /images/xiangshan3.jpg
+       some photo of plant
+src: /images/ziran.jpg
 ---

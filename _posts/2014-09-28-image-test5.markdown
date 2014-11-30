@@ -1,12 +1,9 @@
 ---
 layout: image
-title:  image
+title:  摄影 门窗
 date:   2014-10-15 10:34:29
-categories: image
+categories: work
 pre: | 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed feugiat consectetur pellentesque. Nam ac elit risus, 
-    ac blandit dui. Duis rutrum porta tortor ut convallis.
-    Duis rutrum porta tortor ut convallis.
+       door
 src: /images/door.jpg
 ---
