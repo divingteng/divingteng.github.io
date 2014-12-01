@@ -22,7 +22,7 @@ body {
     line-height: 25px;
     font-weight: 300;
     color: #111;
-    background-color: #fdfdfd;
+    background-color: #fafafa;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -164,13 +164,15 @@ pre > code {
  */
 .icon > svg {
     display: inline-block;
+    float: relative;
     width: 16px;
     height: 16px;
     vertical-align: middle;
+    margin: 10px;
 }
 
 .icon > svg path {
-    fill: #828282;
+    fill: #000;
 }
 
 /**
@@ -225,7 +227,7 @@ pre > code {
         display: block;
         top: 9px;
         margin: 0 auto;
-        background-color: #fdfdfd;
+        background-color: #fafafa;
         border-radius: 5px;
         text-align: center;
     }
@@ -291,8 +293,9 @@ pre > code {
 
 .contact-list,
 .social-media-list {
-    list-style: none;
-    margin-left: 0;
+
+    margin: 10px;
+    text-align: center;
 }
 
 .footer-col-wrapper {
@@ -441,6 +444,11 @@ pre > code {
     .post-content h4 {
         font-size: 18px;
     }
+}
+
+.aboutpic{
+    width: 100%;
+    border-radius: 4px;
 }
 
 /**
