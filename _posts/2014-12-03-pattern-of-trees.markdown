@@ -1,6 +1,6 @@
 ---
 layout: image
-title:  摄影 树的图案
+title:  喜欢图案的摄影方式
 date:   2014-10-15 10:34:23
 categories: work
 pre: | 
