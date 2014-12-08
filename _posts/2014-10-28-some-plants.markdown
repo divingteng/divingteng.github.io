@@ -5,7 +5,7 @@ date:   2014-10-15 10:34:23
 categories: work
 pre: | 
        一些植物的细节
-src: /images/ziran.jpg
+src: /images/grass.jpg
 ---
 
 <br />
@@ -14,7 +14,7 @@ src: /images/ziran.jpg
 
 <br />
 
-![](/images/grass.jpg)
+![](/images/ziran.jpg)
 
 <br />
 

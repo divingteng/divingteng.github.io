@@ -5,12 +5,12 @@ date:   2014-10-15 10:34:29
 categories: work
 pre: | 
        door
-src: /images/windows.jpg
+src: /images/traveller.jpg
 ---
 
 <br />
 <br />
-![](/images/door.jpg)
+![](/images/road.jpg)
 
 <br />
 
@@ -18,9 +18,6 @@ src: /images/windows.jpg
 
 <br />
 
-![](/images/officeroom.jpg)
+![](/images/xiangshanyuanjing.jpg)
 
-<br />
-
-![](/images/chair.jpg)
 
