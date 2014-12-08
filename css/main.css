@@ -134,8 +134,8 @@ pre > code {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (30px * 2));
-    max-width: calc(800px - (30px * 2));
+    max-width: -webkit-calc(700px - (30px * 2));
+    max-width: calc(700px - (30px * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: 30px;
@@ -379,4 +379,10 @@ contact-list,
 .aboutpic{
     width: 100%;
     border-radius: 4px;
+
+}
+
+.image {
+    margin-top: 20px;
+    text-align: center;
 }
