@@ -21,7 +21,7 @@
 .pin {
 	position: relative;
 	display: inline-block;
-	background: #fff;
+	background: #FAFAFA;
 	/*border: 2px solid #FAFAFA;*/
 	-webkit-column-break-inside: avoid;
 	-moz-column-break-inside: avoid;
