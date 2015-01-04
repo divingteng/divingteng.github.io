@@ -4,7 +4,7 @@ title:  门和窗
 date:   2014-10-15 10:34:29
 categories: work
 pre: | 
-       door
+       DOOR
 src: /images/windows.jpg
 ---
 

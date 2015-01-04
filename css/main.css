@@ -5,7 +5,7 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
+body, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 /**
@@ -357,18 +357,18 @@ contact-list,
 }
 
 .post-content {
-    margin-bottom: 30px;
+    margin-bottom: 200px;
     font-size: 14px;
 
 }
 
 .post-content h2 {
-    font-size: 32px;
+    font-size: 28px;
 }
 
 
 .post-content h3 {
-    font-size: 26px;
+    font-size: 24px;
 }
 
 .post-content h4 {
@@ -383,6 +383,6 @@ contact-list,
 }
 
 .image {
-    margin-top: 20px;
+    margin-bottom: 60px;
     text-align: center;
 }

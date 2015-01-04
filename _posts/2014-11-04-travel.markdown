@@ -4,17 +4,13 @@ title:  门和窗
 date:   2014-10-15 10:34:29
 categories: work
 pre: | 
-       door
+       沙漠中行走很难，每走一步都像踩到棉花糖，没有受力点
 src: /images/traveller.jpg
 ---
 
 <br />
 <br />
 ![](/images/road.jpg)
-
-<br />
-
-![](/images/doors.jpg)
 
 <br />
 

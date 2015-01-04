@@ -18,8 +18,4 @@ src: /images/grass.jpg
 
 <br />
 
-![](/images/stone.jpg)
-
-<br />
-
 ![](/images/templet.jpg)
