@@ -12,3 +12,13 @@ src: /images/seaofdalian.jpg
 ![](/images/seaofdalian3.jpg)
 
 ![](/images/seaofdalian4.jpg)
+
+想了想，可以把维多利亚湾也放这，就当是做个对比。
+
+![](/images/victoriabay.jpg) 
+
+最后是大连有轨的车窗和香港的茶餐厅的镜子
+
+![](/images/daliantrain.jpg) 
+
+![](/images/hongkongrestaraunt.jpg) 
