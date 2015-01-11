@@ -32,13 +32,17 @@ permalink: /work/
     </g>
 </svg>
 </div>
-  <div id="columns">
+
+<div id="columns">
+
     {% for post in site.categories.work %}
       <div class="pin">
   			<a href="{{ post.url }}"><img src="{{ post.src }}" /></a>
-			<p>
+
+			<a href="{{ post.url }}"><p>
 				{{ post.pre }}
-			</p>
+			</p></a>
+
       </div>
     {% endfor %}
   </div>
