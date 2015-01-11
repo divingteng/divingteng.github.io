@@ -45,6 +45,11 @@ img {
     vertical-align: middle;
 }
 
+.head_svg{
+    display: block;
+    margin: 0 auto;
+}
+
 /**
  * Figures
  */
@@ -383,6 +388,7 @@ contact-list,
 }
 
 .image {
-    margin-bottom: 60px;
+    margin: 0 auto 30px;
     text-align: center;
+    display: block;
 }
