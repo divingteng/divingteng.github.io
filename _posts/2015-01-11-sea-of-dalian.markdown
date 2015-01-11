@@ -17,8 +17,4 @@ src: /images/seaofdalian.jpg
 
 ![](/images/victoriabay.jpg) 
 
-最后是大连有轨的车窗和香港的茶餐厅的镜子
-
-![](/images/daliantrain.jpg) 
-
-![](/images/hongkongrestaraunt.jpg) 
+大连有轨的车窗和香港的茶餐厅的镜子
