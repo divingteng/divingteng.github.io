@@ -9,7 +9,7 @@ permalink: /work/
 
   <!--<h1 class="page-heading">THOUGHT</h1> -->
 <div>
-  <svg width="60%" height="60%" viewBox="0 0 400 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="head_svg">
+  <svg viewBox="0 0 400 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="head_svg">
     <!-- Generator: Sketch 3.2.1 (9977) - http://www.bohemiancoding.com/sketch -->
     <title>blog 3</title>
     <desc>Created with Sketch.</desc>
