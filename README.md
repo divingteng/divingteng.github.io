@@ -1,4 +1,10 @@
-divingteng.github.io
-====================
+# divingteng.github.io
 
-个人博客 
+> Tengyue's blog
+
+## Installation
+
+    npm install
+
+    brew install imagemagick
+    brew install graphicsmagick
