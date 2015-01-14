@@ -8,4 +8,7 @@ pre: |
 src: /images/waterfall/daliantrain.jpg
 ---
 
+![](/images/daliantrain.jpg) 
+
+
 ![](/images/hongkongrestaraunt.jpg) 

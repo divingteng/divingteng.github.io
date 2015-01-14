@@ -8,6 +8,8 @@ pre: |
 src: /images/waterfall/pilgrim.jpg
 ---
 
+![](/images/pilgrim.jpg)
+
 ![](/images/passer.jpg)
 
 ![](/images/bystander.jpg)
