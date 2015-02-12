@@ -8,6 +8,7 @@ url: "http://tengyue.me" # the base hostname & protocol for your site
 twitter_username: divingteng
 github_username:  divingteng
 permalink: /:year/:month/:day/:title.html
+exclude: [node_modules]
 
 # Build settings
 markdown: kramdown
