@@ -1,17 +1,11 @@
 ---
 layout: image
-title:  路们
+title:  北京香山
 date:   2014-10-20 10:34:29
-categories: 
+categories: work
 pre: | 
-       喜欢拍大路，小路，公路，母路...
+       香山公园在秋季是游人惨叫的地方。人多枫叶少，景色很壮观。
 src: /images/waterfall/xiangshanyuanjing.jpg
 ---
 
 ![](/images/xiangshanyuanjing.jpg)
-
-![](/images/traveller.jpg)
-
-![](/images/road.jpg)
-
-喜欢拍大路，小路，公路，母路...
