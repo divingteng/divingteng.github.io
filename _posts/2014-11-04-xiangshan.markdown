@@ -9,3 +9,5 @@ src: /images/waterfall/xiangshanyuanjing.jpg
 ---
 
 ![](/images/xiangshanyuanjing.jpg)
+
+香山公园在秋季是游人惨叫的地方。人多枫叶少，景色很壮观。
