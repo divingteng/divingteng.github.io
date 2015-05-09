@@ -2,7 +2,7 @@
 layout: image
 title:  路们
 date:   2014-10-20 10:34:29
-categories: work
+categories: 
 pre: | 
        喜欢拍大路，小路，公路，母路...
 src: /images/waterfall/xiangshanyuanjing.jpg
