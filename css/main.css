@@ -229,7 +229,7 @@ contact-list,
 .social-media-list {
 
     margin: 10px;
-    text-align: center;
+  /**  text-align: center;  **/
 }
 
 .page-link:visited {
