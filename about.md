@@ -8,7 +8,8 @@ permalink: /about/
 <div id="wrapper">
 
 <div>
-    <img class="aboutpic" src="/images/about.jpg">
+   <!-- <img class="aboutpic" src="/images/about.jpg">  -->
+   <p>THANKS FOR VISITING</p>
 
     <div class="social-media-list">
           {% if site.github_username %}
