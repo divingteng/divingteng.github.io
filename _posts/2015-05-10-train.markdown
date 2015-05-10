@@ -5,7 +5,7 @@ date:   2014-10-20 10:34:29
 categories: work
 pre: | 
        my illustration practise of a train
-src: /images/waterfall/train.png
+src: /images/waterfall/train.jpg
 ---
 
-![](/images/train.png)
+![](/images/train.jpg)
