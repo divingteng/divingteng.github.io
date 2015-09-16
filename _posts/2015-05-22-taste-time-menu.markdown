@@ -8,7 +8,9 @@ pre: |
 src: /images/waterfall/taste_time_menu.jpg
 ---
 
-风格很清爽简洁，看起来品味高端。
+风格很清爽简洁，希望可以给顾客新鲜健康的感觉。
 
 ![](/images/taste_time_menu.jpg)
+
+![](/images/taste_time_sale.jpg)
 
