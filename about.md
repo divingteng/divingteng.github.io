@@ -8,35 +8,36 @@ permalink: /about/
 <div id="wrapper">
 
 <div>
-   <svg width="400px" height="100px" viewBox="0 0 400 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="head_svg">
+   <svg width="298px" height="100px" viewBox="0 0 298 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="head_svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>blog 4 copy 2</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="blog-4-copy-2" sketch:type="MSArtboardGroup" stroke-width="4">
-            <g id="Path-10-+-Path-11-+-Path-12" sketch:type="MSLayerGroup" transform="translate(127.000000, 15.000000)" stroke="#4F4F4F">
-                <path d="M2.13999748,1.62451687 L37.1304243,23.5625524 L2.13999748,48.3095089" id="Path-10" sketch:type="MSShapeGroup"></path>
-                <path d="M2.13999748,21.8109898 L37.1304243,43.7490253 L2.13999748,68.4959818" id="Path-11" sketch:type="MSShapeGroup"></path>
-                <path d="M1.57492316,0.0511495524 L1.57492316,70.0715846" id="Path-12" sketch:type="MSShapeGroup"></path>
+            <g id="Path-10-+-Path-11-+-Path-12" sketch:type="MSLayerGroup" transform="translate(97.500000, 50.565789) rotate(-1.000000) translate(-97.500000, -50.565789) translate(79.000000, 16.000000)" stroke="#4F4F4F">
+                <path d="M2.08368176,1.58176643 L36.1533079,22.9424852 L2.08368176,47.038206" id="Path-10" sketch:type="MSShapeGroup"></path>
+                <path d="M2.08368176,21.2370164 L36.1533079,42.5977352 L2.08368176,66.693456" id="Path-11" sketch:type="MSShapeGroup"></path>
+                <path d="M1.53347781,0.0498035115 L1.53347781,68.2275956" id="Path-12" sketch:type="MSShapeGroup"></path>
             </g>
-            <g id="Path-27-+-Path-26" sketch:type="MSLayerGroup" transform="translate(64.000000, 20.000000)" stroke="#505050">
-                <path d="M2,21 L49.3841242,21" id="Path-27" sketch:type="MSShapeGroup"></path>
-                <path d="M0,61.1305406 L25.5,0 L51,61.1305431" id="Path-26" sketch:type="MSShapeGroup"></path>
+            <g id="Path-27-+-Path-26" sketch:type="MSLayerGroup" transform="translate(21.000000, 25.000000)" stroke="#505050">
+                <path d="M7.19607843,18.7741935 L39.7386218,18.7741935" id="Path-27" sketch:type="MSShapeGroup"></path>
+                <path d="M0,54.2287054 L23,0 L46,54.2287076" id="Path-26" sketch:type="MSShapeGroup"></path>
             </g>
-            <path d="M236,76.3993354 L236,50.1996688 L255,24 L274,50.1996688 L274,76.3993375" id="Path-26-Copy" stroke="#505050" sketch:type="MSShapeGroup" transform="translate(255.000000, 50.199669) scale(1, -1) translate(-255.000000, -50.199669) "></path>
-            <path d="M182.232969,33.2329688 L220,31 L217.767031,68.7670312 L180,71 L182.232969,33.2329688 Z" id="Rectangle-13-Copy" stroke="#505050" sketch:type="MSShapeGroup" transform="translate(200.000000, 51.000000) rotate(-45.000000) translate(-200.000000, -51.000000) "></path>
-            <g id="Path-29-+-Path-30" sketch:type="MSLayerGroup" transform="translate(288.000000, 19.000000)" stroke="#505050">
-                <path d="M0,2.20843297 L47.7303057,2.20843297" id="Path-29" sketch:type="MSShapeGroup"></path>
-                <path d="M24.2769881,3.31264945 L24.2769881,62.0345153" id="Path-30" sketch:type="MSShapeGroup"></path>
+            <path d="M185.789474,76.3993354 L182,50.1996688 L200,24 L218,50.1996688 L214.210526,76.3993375" id="Path-26-Copy" stroke="#505050" sketch:type="MSShapeGroup" transform="translate(200.000000, 50.199669) scale(1, -1) translate(-200.000000, -50.199669) "></path>
+            <path d="M130.232969,33.2329688 L168,31 L165.767031,68.7670312 L128,71 L130.232969,33.2329688 Z" id="Rectangle-13-Copy" stroke="#505050" sketch:type="MSShapeGroup" transform="translate(148.000000, 51.000000) rotate(-45.000000) translate(-148.000000, -51.000000) "></path>
+            <g id="Path-29-+-Path-30" sketch:type="MSLayerGroup" transform="translate(226.383333, 18.000000)" stroke="#505050">
+                <path d="M0.646031692,9.40045238 L43.5984108,9.40045238" id="Path-29" sketch:type="MSShapeGroup"></path>
+                <path d="M22.4067192,0 L22.4067192,63.8276314" id="Path-30" sketch:type="MSShapeGroup"></path>
             </g>
         </g>
     </g>
 </svg>
    <!-- <img class="aboutpic" src="/images/about.jpg">  -->
-   <p>THANKS FOR VISITING</p>
-
+   <img class="aboutpic" src="/images/resume.jpg">
+   
     <div class="social-media-list">
+          <div>THANKS FOR VISITING</div>
           {% if site.behance_username %}
 
             <a href="https://behance.net/{{ site.behance_username }}">
@@ -81,6 +82,7 @@ permalink: /about/
         
           {% endif %}
         </div>
+        
 
 </div>
 

@@ -4,7 +4,7 @@ var pngquant = require('imagemin-pngquant');
 var imageResize = require('gulp-image-resize');
 var clean = require('gulp-clean');
 
-gulp.task('default', function() {
+gulp.task('watch', function() {
     gulp.watch('_assets/*', function(event) {
         gulp.src(event.path)
             .pipe(imageResize({ 
@@ -31,7 +31,7 @@ gulp.task('default', function() {
     });
 });
 
-gulp.task('build', ['clean', 'minimize']);
+gulp.task('default', ['clean', 'minimize']);
 
 gulp.task('minimize', ['waterfall', 'post'], function() {
     return gulp.src('dist/**/*')
