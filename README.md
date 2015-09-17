@@ -8,3 +8,7 @@
 
     brew install imagemagick
     brew install graphicsmagick
+
+## TODO
+
+* _assets/resume.jpg shouldn't being compressed
