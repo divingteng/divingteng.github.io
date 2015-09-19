@@ -8,27 +8,32 @@ permalink: /about/
 <div id="wrapper">
 
 <div>
-   <svg width="298px" height="100px" viewBox="0 0 298 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="head_svg">
+   <svg width="304px" height="100px" viewBox="0 0 304 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="head_svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
-    <title>blog 4 copy 2</title>
+    <title>about</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="blog-4-copy-2" sketch:type="MSArtboardGroup" stroke-width="4">
-            <g id="Path-10-+-Path-11-+-Path-12" sketch:type="MSLayerGroup" transform="translate(97.500000, 50.565789) rotate(-1.000000) translate(-97.500000, -50.565789) translate(79.000000, 16.000000)" stroke="#4F4F4F">
-                <path d="M2.08368176,1.58176643 L36.1533079,22.9424852 L2.08368176,47.038206" id="Path-10" sketch:type="MSShapeGroup"></path>
-                <path d="M2.08368176,21.2370164 L36.1533079,42.5977352 L2.08368176,66.693456" id="Path-11" sketch:type="MSShapeGroup"></path>
+        <g id="about" sketch:type="MSArtboardGroup" stroke-width="4">
+            <g id="Path-10-+-Path-11-+-Path-12" sketch:type="MSLayerGroup" transform="translate(100.500000, 50.500000) rotate(-1.000000) translate(-100.500000, -50.500000) translate(82.000000, 16.000000)" stroke="#4F4F4F">
+                <path d="M2.08368176,1.58176643 L36.1533079,22.9424852 L2.08368176,47.038206" id="Path-10" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path d="M2.08368176,21.2370164 L36.1533079,42.5977352 L2.08368176,66.693456" id="Path-11" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
                 <path d="M1.53347781,0.0498035115 L1.53347781,68.2275956" id="Path-12" sketch:type="MSShapeGroup"></path>
             </g>
-            <g id="Path-27-+-Path-26" sketch:type="MSLayerGroup" transform="translate(21.000000, 25.000000)" stroke="#505050">
-                <path d="M7.19607843,18.7741935 L39.7386218,18.7741935" id="Path-27" sketch:type="MSShapeGroup"></path>
-                <path d="M0,54.2287054 L23,0 L46,54.2287076" id="Path-26" sketch:type="MSShapeGroup"></path>
+            <g id="Path-27-+-Path-26" sketch:type="MSLayerGroup" transform="translate(22.000000, 24.000000)" stroke="#505050">
+                <path d="M4,41.2187683 L42,41.2187683" id="Path-27" sketch:type="MSShapeGroup"></path>
+                <path d="M0,52.2567525 L23,0 L46,52.2567546" id="Path-26" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
             </g>
-            <path d="M185.789474,76.3993354 L182,50.1996688 L200,24 L218,50.1996688 L214.210526,76.3993375" id="Path-26-Copy" stroke="#505050" sketch:type="MSShapeGroup" transform="translate(200.000000, 50.199669) scale(1, -1) translate(-200.000000, -50.199669) "></path>
-            <path d="M130.232969,33.2329688 L168,31 L165.767031,68.7670312 L128,71 L130.232969,33.2329688 Z" id="Rectangle-13-Copy" stroke="#505050" sketch:type="MSShapeGroup" transform="translate(148.000000, 51.000000) rotate(-45.000000) translate(-148.000000, -51.000000) "></path>
-            <g id="Path-29-+-Path-30" sketch:type="MSLayerGroup" transform="translate(226.383333, 18.000000)" stroke="#505050">
-                <path d="M0.646031692,9.40045238 L43.5984108,9.40045238" id="Path-29" sketch:type="MSShapeGroup"></path>
-                <path d="M22.4067192,0 L22.4067192,63.8276314" id="Path-30" sketch:type="MSShapeGroup"></path>
+            <path d="M154.068895,26 L132,50.8346233 L154.068895,75.5241318 L176.05147,50.8346233 L154.068895,26 Z" id="Path-30-Copy" stroke="#505050" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+            <g id="Path-29-+-Path-30-+-Path-32" sketch:type="MSLayerGroup" transform="translate(239.000000, 20.000000)" stroke="#505050">
+                <g id="Path-29-+-Path-30" transform="translate(19.800000, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M2.22951651,0 L2.22951657,61.8276314" id="Path-30"></path>
+                </g>
+                <path d="M22,16.8762465 L0,0.876246452 L44,0.876246452 L22,16.8762465 Z" id="Path-32" stroke-linejoin="bevel" sketch:type="MSShapeGroup" transform="translate(22.000000, 8.876246) scale(1, -1) translate(-22.000000, -8.876246) "></path>
+            </g>
+            <g id="Path-33-+-Path-33-Copy" sketch:type="MSLayerGroup" transform="translate(188.000000, 27.000000)" stroke="#505050">
+                <path d="M10.7923955,0 L0,20.5203764 L33.8095868,44.9876068" id="Path-33" sketch:type="MSShapeGroup"></path>
+                <path d="M13.8979725,0 L3,20.5203764 L36.8095868,44.7435364" id="Path-33-Copy" sketch:type="MSShapeGroup" transform="translate(19.904793, 22.371768) scale(-1, 1) translate(-19.904793, -22.371768) "></path>
             </g>
         </g>
     </g>
